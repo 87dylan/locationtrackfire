@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919623405659",
+    "firebase_url": "https://locationtrackfire.firebaseio.com",
+    "project_id": "locationtrackfire",
+    "storage_bucket": "locationtrackfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919623405659:android:038aafb10fa1161552ef7e",
+        "android_client_info": {
+          "package_name": "com.example.locationtrackfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919623405659-vvbavjq90haa1km6kl3bp61bq0ip5j2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locationtrackfire",
+            "certificate_hash": "2b3f5c73536a71fee7a7e56a878fa833ec77ea56"
+          }
+        },
+        {
+          "client_id": "919623405659-m620o2a4smbrve2d8gilbg71197kukvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxiZbHlYz1qdPPzgdQlrjFSFDCeolwNIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919623405659-m620o2a4smbrve2d8gilbg71197kukvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

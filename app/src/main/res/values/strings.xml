@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">locationtrackfire</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="textview">TextView</string>
+    <string name="text1">latitude</string>
+    <string name="button1">update</string>
+    <string name="text2">longitude</string>
+    <string name="text0">TextView</string>
+    <string name="text01">TextView</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="update">update</string>
+    <string name="textview4">TextView</string>
+</resources>
